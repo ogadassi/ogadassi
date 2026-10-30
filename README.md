@@ -27,7 +27,7 @@
 
 | Project | Platform | What it does | Stack |
 |---|---|---|---|
-| 🧠 **[Steelman](https://playsteelman.vercel.app)** | iOS · Android · Web | Trains you to catch bad arguments. Skill trees, offline-first sync, 74 fallacies, 332 practice questions and 12 debates. *Pre-launch.* | `Expo` `React Native` `TypeScript` `Supabase` `Astro` |
+| 🧠 **[Steelman](https://playsteelman.vercel.app)** | iOS · Android · Web | Trains you to catch bad arguments. Skill trees, offline-first sync, 74 fallacies, 744 practice questions, 12 debates and 20 LSAT-style drills. *Pre-launch.* | `Expo` `React Native` `TypeScript` `Supabase` `Astro` |
 | 🎸 **[Sterrify](https://github.com/ogadassi/Sterrify)** | Desktop · Spotify | Syncs Songsterr tabs to Spotify and switches instrument and tuning automatically. Rebuilt as a Spicetify app inside Spotify, removing 465 ms of polling lag. GPU stem separation and a WebMIDI amp bridge. *Daily use.* | `Electron` `Node.js` `Spicetify` `alphaTab` `WebMIDI` `C#` |
 | ❄️ **[AC Notification](https://github.com/ogadassi/ac-notification)** | Android · Android Auto | A geofence around home triggers a 1-tap "turn on AC" notification. A Flask server finds the Midea ACs on the LAN and controls them. 128 commits, 10 releases. *Daily use.* | `Kotlin` `Android Auto` `Python` `Flask` `ngrok` |
 | ▶️ **[YouTube Watch Later Manager](https://chromewebstore.google.com/detail/youtube-watch-later-manag/cipblemimaiffjenjhnplnegbembhgmc)** ([repo](https://github.com/ogadassi/WatchLater)) | Chrome extension | 1-click Watch Later buttons across YouTube. Works in any language by matching icon shapes, not text. 24 users, 5.0 ★. *Published.* | `JavaScript` `Chrome extension` |
