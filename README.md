@@ -8,13 +8,13 @@
   <a href="mailto:ogadassi@gmail.com"><img src="https://img.shields.io/badge/Email-1E5C3A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-🟢 **Open to full-stack, frontend, backend and React Native roles.**
+🟢 **Open to technical support, implementation, automation and full-stack roles.**
 
 ---
 
 ### 🚀 About me
 
-- 🎓 Studying **AI-Native Full-Stack & Architecture** at 10x Academy (2026 – present)
+- 🎓 Studying **AI-Native Full-Stack & Architecture** at 10x Developer (2026 – present)
 - 🏅 Graduated the **John Bryce Full-Stack** course with honors
 - 🛠️ IT infrastructure background: IT support at Ramat Gan Municipality, where I saw every day what actually breaks for real users
 - 🧩 Published a Chrome extension to the Chrome Web Store (5.0 ★)
