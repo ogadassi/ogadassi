@@ -35,12 +35,12 @@
 | 🍇 **[Grapevine](https://github.com/ogadassi/Grapevine)** | Mobile (Hebrew, RTL) | Our own social network for our friend group, built with a friend. Posts, custom reactions, 4 games and an in-app coin economy with 16 cosmetic packs. | `React Native` `Expo` `Appwrite` `Node.js` `TypeScript` |
 | 💬 **Friendmeter** | Windows desktop | A "Liquid Glass" Rainmeter widget that keeps my friends in view. Rebuilt on Windows UI Automation, with no simulated keystrokes. *Daily use, private repo.* | `Lua` `Rainmeter` `Node.js` `TypeScript` |
 | 📶 **Android Bluetooth Control Widget** | Android widget | One-tap home-screen widget to connect a specific Bluetooth device, without root (Shizuku). APK shrunk from 13.9 MB to 1.9 MB. *Daily use, private repo.* | `Kotlin` `Jetpack Compose` `Shizuku` |
+| 🔎 **[JobScout](https://github.com/ogadassi/JobScout)** | GitHub Actions · nightly | My own job-search bot. Every night it reads the public job boards of 84 Israeli tech companies, scores each ad with keyword rules and Gemini, saves the matches to Supabase and sends me a morning digest. *Daily use.* | `TypeScript` `Node.js` `Zod` `Supabase` `Gemini API` `GitHub Actions` |
 
 #### Earlier & smaller work
 
 - **[RLScoreBot](https://github.com/ogadassi/RLScoreBot)**: a Python Discord bot that watches Rocket League with computer vision and plays a sound in voice chat when a goal is scored.
 - **[Mythical Vision](https://github.com/ogadassi/gmm-player)**: a "vintage morning TV" YouTube player. Channel-style, with no scrolling and no algorithms.
-- **JobScout** *(private)*: a TypeScript/NestJS tool that collects and scores junior developer job listings into Excel.
 - **[Vacation Time](https://github.com/ogadassi/Vacation-Time)**: my John Bryce final project, a vacation-planning web app.
 - **[TRIOT](https://github.com/ogadassi/triot-official-website)**: the website for my band.
 - **[MineSweeper](https://ogadassi.github.io/MineSweeper/)**: a browser game.
